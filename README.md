@@ -3,4 +3,4 @@ Contest 3
 
 
 
-https://jayeshshsh.github.io/Contest-3/
+https://jayeshshsh.github.io/F1-Contest-3/
